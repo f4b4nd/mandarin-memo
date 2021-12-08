@@ -1,0 +1,26 @@
+# C
+s = [c] - ex : "cela"
+c = [ts] - ex: "Tsahel"
+
+
+# CH
+sh = [ch] - ex : "chaud"
+x = [ch] en tirant la langue en arrière
+ch = [tch]
+q = [ts]/[tch] - ex : "chin chin"
+
+
+# J
+r = [j] - ex: "jeux"
+zh = [dj] - ex: "jean" (anglais)
+j = [dz]/[tj] - ex : "jeep" (anglais)
+
+
+# Z
+z = [dz]
+
+
+############
+# Difficultés:
+- distinguer le "j" et "q"
+- distinguer le "ch" et "q"
